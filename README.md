@@ -1,8 +1,8 @@
-#TableSort
-##Description
+<h1>Table Sort</h1>
+<h2>Description</h2>
 A Javascript class, that allows you to sort an HTML table by clicking the column header that is assigned the sorting functionality.
 
-##How To Use
+<h2>How To Use</h2>
 
 If you are not goint to make improvements or changes to the code you will need to delete the .git directory
 
